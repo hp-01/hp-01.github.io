@@ -2,55 +2,55 @@
   "planes": [
     {
       "id": 1,
-      "location": "https://drive.google.com/file/d/1IMFoqXTvPgBNt-1trTkYZfg0LD4JGc5r/view?usp=sharing",
+      "location": "green-plane.png",
       "name": "Green Spaceship",
       "purchased": true
     },
     {
       "id": 2,
-      "location": "https://drive.google.com/file/d/1pVtqc9sMcKzHVd8-nwKiqjNhlVUIc6aW/view?usp=sharing",
+      "location": "blue-plane.png",
       "name": "Blue Spaceship",
       "purchased": false
     },
     {
       "id": 3,
-      "location": "https://drive.google.com/file/d/1dFx7wmo0QC4lAlYJDZ2sHdTm2tgufH7m/view?usp=sharing",
+      "location": "yellow-plane.png",
       "name": "Yellow Spaceship",
       "purchased": false
     },
     {
       "id": 4,
-      "location": "https://drive.google.com/file/d/106unmwAwWWfv9UkKR1DXeLTEzJyLYJ-b/view?usp=sharing",
+      "location": "indigo-plane.png",
       "name": "Indigo Spaceship",
       "purchased": false
     },
     {
       "id": 5,
-      "location": "https://drive.google.com/file/d/1q8Gsr03qMGpUxQtjArPo8wDAkAX9kpMs/view?usp=sharing",
+      "location": "lime-plane.png",
       "name": "Lime Spaceship",
       "purchased": false
     },
     {
       "id": 6,
-      "location": "https://drive.google.com/file/d/1pIzsoWPC0MDOm6ygkfj1XfBT9_gp28v1/view?usp=sharing",
+      "location": "red-plane.png",
       "name": "Red Spaceship",
       "purchased": false
     },
     {
       "id": 7,
-      "location": "https://drive.google.com/file/d/18f94V3_2X0lQzp57u_rULE4NMuoKJaM1/view?usp=sharing",
+      "location": "light-blue-plane.png",
       "name": "Light Blue Spaceship",
       "purchased": false
     },
     {
       "id": 8,
-      "location": "https://drive.google.com/file/d/17exRWnGdCa5CXqJ06Ut-c8eKoLeRTUQ6/view?usp=sharing",
+      "location": "pink-plane.png",
       "name": "Pink Spaceship",
       "purchased": false
     },
     {
       "id": 9,
-      "location": "https://drive.google.com/file/d/1E81ScSNQX6vPwhJwee8K3ftJKFIvPtOj/view?usp=sharing",
+      "location": "black-plane.png",
       "name": "Black Spaceship",
       "purchased": false
     }
