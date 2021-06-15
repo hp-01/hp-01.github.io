@@ -47,13 +47,7 @@
       "location": "pink-plane.png",
       "name": "Pink Spaceship",
       "purchased": false
-    },
-    
-    {
-      "id": 9,
-      "location": "black-plane.png",
-      "name": "Black Spaceship",
-      "purchased": false
     }
+    
   ]
 }
