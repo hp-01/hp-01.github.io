@@ -54,6 +54,12 @@
       "location": "black-plane.png",
       "name": "Black Spaceship",
       "purchased": false
+    },
+    {
+      "id": 10,
+      "location":"purple-plane.png",
+      "name": "Purple Spaceship",
+      "purchased": false
     }
   ]
 }
