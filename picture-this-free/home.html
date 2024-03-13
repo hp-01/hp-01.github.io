@@ -866,10 +866,12 @@
     }
 
     function configure() {
-      const popupUrl = `${window.location.origin}/configure.html`;
+      let configure_url = window.location.href.split("/");
+      configure_url.pop();
+      configure_url = configure_url.join("/") + "/configure.html";
       let defaultPayload = "UI";
       tableau.extensions.ui
-        .displayDialogAsync(popupUrl, defaultPayload, {
+        .displayDialogAsync(configure_url, defaultPayload, {
           height: 600,
           width: 1200,
         })
